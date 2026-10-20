@@ -1,0 +1,201 @@
+id,age,education_level,company_size,job_satisfaction,experience_level,salary
+1,28,High School,Small,Medium,Intermediate,36657
+2,47,High School,Large,Very High,Beginner,35674
+3,52,High School,Small,Very Low,Intermediate,33811
+4,48,High School,Large,Low,Expert,55111
+5,37,Master,Small,Low,Expert,81074
+6,44,Bachelor,Small,Medium,Beginner,36519
+7,49,High School,Medium,Medium,Advanced,43711
+8,59,High School,Medium,Very Low,Advanced,50299
+9,34,Master,Large,Low,Beginner,46250
+10,37,Master,Small,Low,Beginner,51727
+11,42,PhD,Large,Medium,Intermediate,75065
+12,60,Bachelor,Large,Medium,Beginner,44980
+13,44,Bachelor,Large,Low,Intermediate,51073
+14,40,Master,Large,Very High,Intermediate,71216
+15,37,High School,Small,Very Low,Advanced,46572
+16,51,High School,Small,Very High,Advanced,49483
+17,28,PhD,Large,High,Intermediate,74839
+18,57,Bachelor,Large,Very High,Advanced,70239
+19,28,PhD,Large,High,Advanced,84093
+20,60,PhD,Small,Very Low,Beginner,58504
+21,44,Bachelor,Large,High,Beginner,42804
+22,27,PhD,Large,Medium,Beginner,70145
+23,47,Master,Large,Medium,Beginner,51808
+24,31,Bachelor,Medium,Very Low,Advanced,60201
+25,43,High School,Large,Medium,Intermediate,35504
+26,40,Bachelor,Large,Very High,Beginner,47813
+27,35,PhD,Small,Very Low,Advanced,81038
+28,51,High School,Small,Very High,Beginner,27403
+29,50,High School,Large,Low,Intermediate,42309
+30,54,Bachelor,Medium,Very High,Expert,71470
+31,43,Bachelor,Large,Medium,Expert,76004
+32,34,PhD,Large,High,Beginner,64561
+33,34,High School,Medium,Very Low,Intermediate,39641
+34,22,High School,Small,Very Low,Intermediate,31104
+35,51,Master,Small,Very High,Intermediate,64562
+36,50,Bachelor,Large,Low,Expert,67481
+37,47,PhD,Small,Very Low,Beginner,66796
+38,23,Master,Medium,High,Expert,90445
+39,35,High School,Small,High,Advanced,46290
+40,47,Bachelor,Small,Very High,Expert,70296
+41,48,Bachelor,Medium,High,Intermediate,47735
+42,35,High School,Small,Very High,Beginner,27528
+43,45,Bachelor,Medium,High,Expert,70002
+44,36,High School,Small,High,Beginner,30896
+45,32,PhD,Medium,High,Expert,93036
+46,40,Master,Small,Very Low,Beginner,56254
+47,53,High School,Small,Very High,Expert,64238
+48,24,Bachelor,Small,Very High,Beginner,41044
+49,56,High School,Large,Low,Expert,53464
+50,25,Bachelor,Large,Very High,Beginner,48147
+51,33,PhD,Large,Very High,Advanced,86272
+52,39,Master,Small,Medium,Expert,79144
+53,59,PhD,Medium,Very Low,Beginner,63508
+54,36,High School,Small,Very High,Intermediate,44288
+55,38,Bachelor,Medium,Very Low,Intermediate,48054
+56,53,Bachelor,Medium,Very High,Advanced,68021
+57,26,High School,Large,Very High,Advanced,56868
+58,55,Bachelor,Medium,Very Low,Beginner,44163
+59,41,Bachelor,Medium,Medium,Intermediate,56757
+60,23,Bachelor,Large,Medium,Expert,69114
+61,20,High School,Large,High,Advanced,45222
+62,48,Master,Small,Medium,Intermediate,69144
+63,29,PhD,Large,Very Low,Beginner,57232
+64,28,High School,Medium,Very High,Intermediate,43041
+65,33,High School,Medium,Medium,Beginner,28862
+66,55,Bachelor,Large,Very Low,Advanced,64781
+67,31,PhD,Large,Low,Intermediate,70162
+68,46,PhD,Small,Low,Advanced,90318
+69,22,Bachelor,Medium,Low,Beginner,39767
+70,39,PhD,Small,Low,Expert,93228
+71,41,Bachelor,Small,Very Low,Intermediate,48528
+72,52,Master,Small,Medium,Advanced,77510
+73,27,PhD,Large,Very High,Advanced,82452
+74,26,Master,Small,Very High,Advanced,70626
+75,52,PhD,Medium,Medium,Expert,98932
+76,22,High School,Medium,Very High,Intermediate,40173
+77,47,PhD,Small,Very High,Intermediate,77967
+78,27,High School,Large,Medium,Advanced,53868
+79,45,Master,Large,Medium,Expert,82344
+80,44,Master,Large,Low,Intermediate,62388
+81,55,Bachelor,Large,Very High,Advanced,64653
+82,57,High School,Medium,Medium,Intermediate,40043
+83,33,Master,Medium,High,Expert,89569
+84,52,PhD,Large,Low,Beginner,62149
+85,32,Master,Small,Low,Advanced,69180
+86,59,Bachelor,Small,Very Low,Intermediate,49784
+87,44,High School,Medium,High,Intermediate,46269
+88,20,PhD,Medium,Low,Intermediate,78248
+89,53,High School,Medium,Low,Intermediate,42901
+90,49,PhD,Small,Very High,Intermediate,73988
+91,48,Bachelor,Medium,Very High,Advanced,70374
+92,50,PhD,Large,High,Intermediate,82684
+93,53,PhD,Medium,Low,Advanced,90047
+94,24,PhD,Large,Low,Advanced,84706
+95,54,Master,Small,Medium,Advanced,72238
+96,29,High School,Small,Low,Intermediate,37775
+97,54,Bachelor,Small,High,Expert,71921
+98,44,PhD,Medium,Very Low,Intermediate,72883
+99,42,High School,Large,High,Expert,54596
+100,34,Master,Medium,High,Intermediate,66499
+101,41,Master,Medium,High,Beginner,54871
+102,59,PhD,Large,Low,Expert,89591
+103,47,High School,Medium,Very High,Beginner,27375
+104,44,Bachelor,Medium,Low,Beginner,37762
+105,44,Master,Small,High,Advanced,74029
+106,21,Master,Medium,Medium,Beginner,54705
+107,22,High School,Medium,Low,Beginner,34299
+108,29,High School,Small,Low,Beginner,31679
+109,33,Bachelor,Small,High,Beginner,45740
+110,58,PhD,Large,Medium,Advanced,81749
+111,21,High School,Small,Medium,Beginner,32481
+112,32,Master,Large,High,Expert,90214
+113,39,High School,Large,Low,Beginner,32922
+114,47,High School,Large,Very Low,Advanced,48728
+115,46,Master,Small,Very High,Advanced,70207
+116,49,PhD,Small,High,Advanced,90913
+117,54,Bachelor,Medium,Low,Advanced,63591
+118,35,PhD,Medium,High,Advanced,85780
+119,49,High School,Medium,High,Intermediate,46795
+120,31,PhD,Medium,Very Low,Expert,91325
+121,37,PhD,Small,Medium,Advanced,84576
+122,35,Master,Large,Very Low,Intermediate,55402
+123,50,PhD,Medium,Very High,Intermediate,83314
+124,34,PhD,Medium,Very Low,Beginner,60820
+125,57,PhD,Large,Low,Advanced,88378
+126,55,Master,Medium,Very High,Advanced,76971
+127,36,Master,Medium,High,Advanced,73523
+128,54,Bachelor,Small,Low,Advanced,55458
+129,57,Bachelor,Small,Low,Expert,68030
+130,43,Master,Small,Low,Advanced,69227
+131,22,Bachelor,Medium,Very Low,Intermediate,46494
+132,51,High School,Large,Medium,Intermediate,43450
+133,50,High School,Small,Very High,Advanced,53690
+134,50,PhD,Medium,Low,Beginner,61636
+135,56,High School,Small,High,Expert,55713
+136,35,High School,Small,Low,Advanced,42895
+137,53,High School,Large,High,Intermediate,47208
+138,47,PhD,Medium,High,Advanced,90142
+139,26,Master,Large,Very High,Beginner,59988
+140,25,Bachelor,Large,Low,Advanced,64320
+141,20,Bachelor,Small,Low,Beginner,36064
+142,22,PhD,Medium,Very High,Expert,96771
+143,34,Bachelor,Medium,Medium,Expert,66166
+144,27,Master,Large,Very High,Intermediate,66965
+145,24,Bachelor,Large,Low,Advanced,55830
+146,27,High School,Small,Medium,Advanced,50195
+147,52,PhD,Large,Medium,Expert,93460
+148,40,PhD,Medium,Very Low,Beginner,63078
+149,56,Master,Small,Very Low,Intermediate,65047
+150,31,High School,Large,Medium,Beginner,35502
+151,57,PhD,Large,High,Advanced,83473
+152,42,PhD,Large,High,Beginner,68200
+153,41,PhD,Medium,Medium,Beginner,61634
+154,45,PhD,Large,High,Advanced,91355
+155,40,High School,Medium,Very Low,Advanced,44135
+156,54,High School,Medium,Very High,Beginner,36775
+157,43,PhD,Medium,Very Low,Intermediate,74494
+158,37,PhD,Large,High,Beginner,63835
+159,21,Bachelor,Medium,High,Expert,68489
+160,20,Bachelor,Large,Low,Advanced,62524
+161,27,PhD,Small,Low,Beginner,65060
+162,50,Bachelor,Medium,Medium,Advanced,61807
+163,32,PhD,Small,High,Intermediate,76784
+164,52,Bachelor,Small,Medium,Expert,70568
+165,57,Master,Small,Medium,Advanced,76616
+166,41,PhD,Small,High,Expert,96154
+167,35,PhD,Medium,Medium,Intermediate,80427
+168,50,PhD,Small,High,Beginner,65713
+169,28,PhD,Medium,Low,Expert,88106
+170,49,Master,Small,High,Beginner,57117
+171,29,High School,Large,Low,Expert,62227
+172,45,High School,Medium,Medium,Advanced,53211
+173,60,High School,Medium,Very High,Expert,61188
+174,60,PhD,Large,Very Low,Beginner,59846
+175,60,Master,Small,Very Low,Expert,75612
+176,22,High School,Medium,Low,Advanced,41974
+177,47,Master,Small,Medium,Advanced,73141
+178,31,Bachelor,Small,Very High,Expert,77272
+179,35,Bachelor,Small,Very Low,Expert,72153
+180,60,PhD,Large,Low,Intermediate,75055
+181,38,Master,Medium,Medium,Beginner,54622
+182,39,Bachelor,Small,High,Advanced,66126
+183,32,PhD,Large,Medium,Expert,93949
+184,56,PhD,Medium,Very Low,Intermediate,72248
+185,45,Master,Large,Medium,Advanced,67359
+186,51,Master,Small,Very High,Beginner,59935
+187,60,Master,Small,Very High,Advanced,73588
+188,26,Bachelor,Large,Medium,Intermediate,55293
+189,43,High School,Medium,High,Beginner,33995
+190,46,Bachelor,Small,Medium,Advanced,67246
+191,52,Bachelor,Small,Low,Advanced,62197
+192,41,Master,Small,Medium,Expert,81835
+193,34,High School,Medium,Very Low,Intermediate,42356
+194,45,PhD,Large,Medium,Beginner,71954
+195,43,High School,Medium,Very High,Beginner,33451
+196,34,Master,Large,High,Advanced,70275
+197,34,PhD,Small,Very High,Advanced,91995
+198,46,High School,Large,High,Advanced,55137
+199,51,High School,Small,Very Low,Beginner,24986
+200,49,High School,Small,Low,Intermediate,37867
